@@ -1,0 +1,39 @@
+{
+  "name": "react_redux_weather",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-preset-stage-1": "^6.1.18",
+    "bootstrap": "^3.3.7",
+    "css-loader": "^0.16.0",
+    "file-loader": "^0.8.4",
+    "google-maps-react": "^1.1.2",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "lodash": "^4.17.4",
+    "react": "^16.2.0",
+    "react-async-script-loader": "^0.3.0",
+    "react-bootstrap": "^0.32.0",
+    "react-country-region-selector": "^1.2.3",
+    "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.1.0",
+    "react-sparklines": "^1.7.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "google-maps": "^3.2.1"
+  }
+}
